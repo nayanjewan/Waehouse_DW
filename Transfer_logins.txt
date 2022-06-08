@@ -31,7 +31,7 @@ END
 
 SELECT @hexvalue = @charvalue
 GO
- 
+ --cool
 IF OBJECT_ID ('sp_help_revlogin') IS NOT NULL
   DROP PROCEDURE sp_help_revlogin
 GO
